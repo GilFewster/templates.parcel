@@ -1,0 +1,22 @@
+{
+  "name": "parcel_template",
+  "version": "1.0.0",
+  "description": "Github template repository for basic webdev projects using Parcel bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilFewster/templates.parcel.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Gil Fewster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GilFewster/templates.parcel/issues"
+  },
+  "homepage": "https://github.com/GilFewster/templates.parcel#readme"
+}
